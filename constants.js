@@ -1,0 +1,1 @@
+const temp = "Test constant"
